@@ -9,3 +9,6 @@ Décacorne (Decacorn) : Les entreprises avec une valorisation supérieure à 10 
 Hectacorne (Hectacorn) : Les hectacornes, dont la valorisation dépasse les 100 milliards de dollars US, sont des entreprises extrêmement rares, considérées comme des géants économiques mondiaux. Leur influence dépasse les frontières et leur impact sur l'économie mondiale est majeur.
 
 Cette analyse des licornes, décacornes et hectacornes fournit un aperçu stratégique des secteurs porteurs et des pays où ces entreprises connaissent une croissance rapide. Elle est essentielle pour identifier les opportunités d'investissement et les nouvelles tendances qui façonnent l'économie mondiale.
+
+lien de l'application : https://projetunicorns-r9dg8i6ryfyqvre7shvug6.streamlit.app
+
